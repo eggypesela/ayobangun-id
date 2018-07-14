@@ -1,0 +1,12 @@
+/*this is css file for ayobangun.id*/
+/*dont forget to add css reset and micro clearfix*/
+
+.container {
+	width: 100%;
+	height: 25px;
+	background-color: grey;
+}
+
+.alert {
+	margin-top: 50px;
+}
